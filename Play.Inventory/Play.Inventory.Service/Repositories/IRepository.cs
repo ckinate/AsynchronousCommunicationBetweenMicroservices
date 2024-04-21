@@ -17,6 +17,7 @@ namespace Play.Catalog.Service.Repositories
         Task CreateAsync(T entity);
         Task UpdateAsync(T entity);
         Task RemoveAsync(int id);
+        //  Task RemoveAsync(Expression<Func<T, bool>> filter);
 
     }
 }

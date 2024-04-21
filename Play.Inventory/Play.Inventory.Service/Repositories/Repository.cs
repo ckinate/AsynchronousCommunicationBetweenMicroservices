@@ -95,5 +95,31 @@ namespace Play.Inventory.Service.Repositories
         {
             return _context.Set<T>().Where(filter).FirstOrDefaultAsync();
         }
+
+        // public async Task RemoveAsync(Expression<Func<T, bool>> filter)
+        // {
+        //     try
+        //     {
+
+        //         var item = await _context.Set<T>().FirstOrDefaultAsync(filter);
+
+
+        //         if (item == null)
+        //         {
+        //             throw new ArgumentException("Entity not found based on the provided filter.", nameof(filter));
+        //         }
+
+
+        //         _context.Set<T>().Remove(item);
+
+
+        //         await _context.SaveChangesAsync();
+        //     }
+        //     catch (DbUpdateConcurrencyException)
+        //     {
+
+        //     }
+        // }
+
     }
 }

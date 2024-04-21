@@ -1,0 +1,12 @@
+C:\AllFiles\Microservices\SQLVersion\Play.Catalog\src\Play.Catalog.Contracts\bin\Release\net5.0\Play.Catalog.Contracts.deps.json
+C:\AllFiles\Microservices\SQLVersion\Play.Catalog\src\Play.Catalog.Contracts\bin\Release\net5.0\Play.Catalog.Contracts.dll
+C:\AllFiles\Microservices\SQLVersion\Play.Catalog\src\Play.Catalog.Contracts\bin\Release\net5.0\Play.Catalog.Contracts.pdb
+C:\AllFiles\Microservices\SQLVersion\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\AllFiles\Microservices\SQLVersion\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+C:\AllFiles\Microservices\SQLVersion\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.AssemblyInfo.cs
+C:\AllFiles\Microservices\SQLVersion\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+C:\AllFiles\Microservices\SQLVersion\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.sourcelink.json
+C:\AllFiles\Microservices\SQLVersion\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.dll
+C:\AllFiles\Microservices\SQLVersion\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\refint\Play.Catalog.Contracts.dll
+C:\AllFiles\Microservices\SQLVersion\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\Play.Catalog.Contracts.pdb
+C:\AllFiles\Microservices\SQLVersion\Play.Catalog\src\Play.Catalog.Contracts\obj\Release\net5.0\ref\Play.Catalog.Contracts.dll
